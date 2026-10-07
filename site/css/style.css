@@ -19,7 +19,7 @@
   --couleur-fond-clair: #f4f6fa;
   --couleur-texte: #1c2333;
   --couleur-texte-doux: #5b6478;
-  --couleur-principale: #2f5bea;
+  --couleur-principale: #D50004;
   --couleur-bordure: #dde3ec;
 
   /* Typographie */
@@ -195,6 +195,11 @@ a {
 
 /* ---------- 7. Projets ---------- */
 /* Les projets sont empilés les uns sous les autres. */
+.projets{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    gap: 24px;
+}
 .projet {
   display: flex;
   align-items: center;
@@ -206,8 +211,8 @@ a {
 }
 
 .projet__image {
-  width: 320px;
-  height: 200px;
+  width: 130px;
+  height: 100px;
   border-radius: var(--rayon);
 }
 
