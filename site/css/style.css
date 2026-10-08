@@ -278,3 +278,12 @@ a {
   text-align: center;
   color: var(--couleur-texte-doux);
 }
+
+.rouge{
+  color: #D50004
+}
+
+.caractere{
+  color: #B3430F;
+  font-family:  'losevka Charon', 'Arial Narrow', Arial, sans-serif;
+}
