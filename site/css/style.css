@@ -284,6 +284,10 @@ a {
 }
 
 .caractere{
-  color: #BD7E2B;
+  color: #1E3A6F;
   font-family:  'losevka Charon', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a.active{
+   color: #D50004
 }
