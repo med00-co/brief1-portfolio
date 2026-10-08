@@ -140,7 +140,7 @@ a {
 }
 
 .presentation h1 {
-  font-size: 56px;
+  font-size: 50px;
 }
 
 .metier {
@@ -206,8 +206,10 @@ a {
   gap: 32px;
   margin-bottom: 24px;
   padding: 24px;
-  border: 1px solid var(--couleur-bordure);
+  /* border: 1px solid var(--couleur-bordure); */
   border-radius: var(--rayon);
+  background-color: #FCFCED
+  ;
 }
 
 .projet__image {
@@ -291,3 +293,47 @@ a {
 nav a.active{
    color: #D50004
 }
+
+
+.dosis {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+}
+
+.bungee-regular {
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.metier {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+}
+
+.caacupe-one-regular {
+  font-family: "Caacupe One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px;
+}
+
+.concert-one-regular {
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.righteous-regular {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
