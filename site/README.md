@@ -1,17 +1,38 @@
-# Portfolio — modèle de départ
+# Mon Portfolio
 
-Site d'une seule page en HTML5 et CSS3, point de départ du Brief 1 (Sprint 1).
+  # Présentation
 
-## Contenu
+Ce projet consiste à créer mon portfolio personnel dans le cadre du Brief 1 à YouCode.
 
-- `index.html` : la page unique (présentation, compétences, projets, contact)
-- `css/style.css` : la feuille de style
-- `images/` : les images provisoires, à remplacer par les vôtres
+Il me permet de présenter mon parcours, mes compétences, mes projets et mes informations de contact.
 
-## Pour commencer
+  # Technologies utilisées
 
-1. Faites un fork de ce dépôt, puis clonez votre fork.
-2. Ouvrez `index.html` dans votre navigateur.
-3. Suivez les étapes du brief : modifier, séparer, manipuler, créer.
+- HTML5
+- CSS3
+- Git et GitHub
+- Figma
 
-Remplacez ce fichier par le README de votre propre portfolio.
+  # Les modifications réalisées
+
+- Personnalisation du contenu avec mes informations personnelles.
+- Création de 4 pages : Accueil, Projets, À propos et Contact.
+- Modification des couleurs du site avec le rouge "#D50004" et utilisation de la police Inter.
+- Ajout de mes compétences et de mes objectifs professionnels.
+- Organisation des projets avec CSS Grid.
+- Amélioration du formulaire de contact avec les champs Sujet, E-mail et Message, ainsi que la validation des champs obligatoires.
+- Amélioration de la structure HTML et des descriptions des images.
+
+  # Maquette Figma
+
+Lien : https://www.figma.com/design/5XtI6apx0o0OI8nDit0lWe/Brief1-Portfolio-IdrMed?m=auto&t=wfOisWgvDETpghDy-6
+
+  # Captures d'écran
+
+Vous trouverez les captures d'écran des 4 pages du portfolio dans le dossier "maquette".
+
+  # Auteur
+
+Mohamed ID IRRAMI
+
+Étudiant en développement web à YouCode.
